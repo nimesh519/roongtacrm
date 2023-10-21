@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034796755272",
+    "project_id": "lrg-crm-ea4f7",
+    "storage_bucket": "lrg-crm-ea4f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034796755272:android:8880fe001c25d202676b7d",
+        "android_client_info": {
+          "package_name": "com.roongtagroup.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034796755272-4dnmr4mcrkfgpot8esg23de88bm8o991.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJqB1s1XaGScslKYtn_GtAq9wj8b0YtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034796755272-4dnmr4mcrkfgpot8esg23de88bm8o991.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

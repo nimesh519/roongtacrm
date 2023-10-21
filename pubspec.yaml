@@ -1,0 +1,71 @@
+name: crm
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <4.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  provider: ^6.0.5
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  flutter_switch: ^0.3.2
+  intl: 
+  cupertino_icons: ^1.0.2
+  jiffy: 
+  shared_preferences: ^2.0.18
+  flutter_easyloading: ^3.0.5
+  dio: ^5.0.2
+  smooth_star_rating_null_safety: ^1.0.4+2
+  url_launcher: any
+  cloud_firestore: ^4.8.4
+  flutter_lints:
+  dart_code_metrics: ^5.7.5
+  fluttertoast: ^8.0.7
+  clipboard: any
+
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_launcher_icons:
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/500_px.png"
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Manrope
+      fonts: 
+        - asset: assets/fonts/ManropeMedium.ttf
+          weight: 500
+        - asset: assets/fonts/ManropeSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Manrope.ttf
+          weight: 400
+        - asset: assets/fonts/ManropeExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/ManropeBold.ttf
+          weight: 700
+        - asset: assets/fonts/ManropeRegular.ttf
+          weight: 400
+    - family: SF Pro Display
+      fonts: 
+        - asset: assets/fonts/SFProDisplayMedium.ttf
+          weight: 500
+        - asset: assets/fonts/SFProDisplayRegular.ttf
+          weight: 400
+        - asset: assets/fonts/SFProDisplayBold.ttf
+          weight: 600
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+    - family: Readex Pro
+      fonts: 
+        - asset: assets/fonts/ReadexProRegular.ttf
+          weight: 400

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml",
+            "map": [
+                {
+                    "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/sqflite/intermediates/merged_res/release/values-hu/values-hu.xml",
+            "map": [
+                {
+                    "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

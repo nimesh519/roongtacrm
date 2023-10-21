@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/nimesh/ASProjects/webcipher/crm/Aadil/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/nimesh/.gradle/caches/transforms-3/18801c36aaed89fe96a298f319721103/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    }
+]
